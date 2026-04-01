@@ -1,5 +1,4 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+John Poul 2
+Jan Paweł 2 
 
-Control: 'WASD' + mouse
-
-![doom](/sreenshots/0.jpg)
+JP2GMD
